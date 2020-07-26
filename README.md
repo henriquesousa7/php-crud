@@ -16,3 +16,7 @@ define('USER', '');
 define('PASS', '');
 define('PORT', '');
 ```
+
+### Contributing
+
+Pull requests are welcome!
