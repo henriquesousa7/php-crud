@@ -8,7 +8,7 @@
 git clone https://github.com/henriquesousa7/php-crud.git
 ```
 
-2. Change hostname, username, password and port in php-crud/config/conexao.php 
+2. Add hostname, username, password and port in php-crud/config/conexao.php 
 
 ```html
 define('HOST', '');
